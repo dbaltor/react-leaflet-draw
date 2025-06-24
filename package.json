@@ -1,5 +1,5 @@
 {
-  "name": "react-leaflet-draw",
+  "name": "@dbaltor00/react-leaflet-draw",
   "version": "0.21.0",
   "description": "React component for leaflet-draw",
   "main": "dist/react-leaflet-draw.js",
